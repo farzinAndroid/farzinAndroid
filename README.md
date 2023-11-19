@@ -4,8 +4,8 @@ I'm 20 years old and very passionate about programming.
 
 Skills: Kotlin / Java (basic) / Retrofit / Hilt / DataStore / Jetpcack Compose / J Unit 
 
-- 🔭 I’m currently working on Snapfood Project 
-- 🌱 I’m currently learning Unit Test 
+- 🔭 I’m currently working on IMDB Project 
+- 🌱 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farzinAndroid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/farzinallahyari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fr.iscold/)  
