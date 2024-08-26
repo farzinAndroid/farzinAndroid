@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm *Farzin*
 #### I am an Android Developer
-I'm 21 years old and very passionate about programming.
+I'm 22 years old and very passionate about programming.
 
 Skills: Kotlin / Java (basic) / Retrofit / Hilt / DataStore / Jetpack Compose / XML
 
