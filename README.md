@@ -32,11 +32,11 @@ Welcome to my GitHub profile! I'm a dedicated Android developer with a strong fo
 
 ## 🚀 Featured Projects
 
-*   **[Digikala](https://github.com/farzinAndroid/Digikala)** - A comprehensive Android e-commerce application demonstrating robust UI and data handling.
-*   **[IMDB](https://github.com/farzinAndroid/IMDB)** - A feature-rich movie discovery application leveraging modern Android architecture.
-*   **[Muse](https://github.com/farzinAndroid/Muse)** - A beautifully designed Android application focused on media and user experience.
-*   **[QQVPN](https://github.com/farzinAndroid/QQVPN)** - A virtual private network client application built for Android.
-*   **[HashScanner](https://github.com/farzinAndroid/HashScanner)** - A robust Android application for scanning and processing data efficiently.
+*   **[Digikala](https://github.com/farzinAndroid/Digikala)** - A fully-featured e-commerce application replicating core functionalities. Built entirely with Kotlin, leveraging an MVVM architecture, Jetpack Compose for the UI, Hilt for dependency injection, and Coroutines/Flow for asynchronous data handling.
+*   **[IMDB](https://github.com/farzinAndroid/IMDB)** - A comprehensive movie discovery application demonstrating modern Android development practices. Implemented using Kotlin, Jetpack Compose, Retrofit for API integration, and Room for local caching within a robust MVVM framework.
+*   **[Muse](https://github.com/farzinAndroid/Muse)** - An elegant Android music player engineered using Clean Architecture principles and a multi-modular project structure to ensure maximum scalability and maintainability.
+*   **[QQVPN](https://github.com/farzinAndroid/QQVPN)** - A secure, high-performance Virtual Private Network (VPN) client. Developed utilizing Kotlin, Jetpack Compose, and an MVVM architecture, with Retrofit and Coroutines handling efficient network operations.
+*   **[HashScanner](https://github.com/farzinAndroid/HashScanner)** - A security-focused utility application designed to scan the device for potentially malicious software, securely reporting suspicious anomalies to a backend server for deeper analysis.
 
 ---
 
