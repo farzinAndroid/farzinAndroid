@@ -32,33 +32,11 @@ Welcome to my GitHub profile! I'm a dedicated Android developer with a strong fo
 
 ## 🚀 Featured Projects
 
+*   **[Digikala](https://github.com/farzinAndroid/Digikala)** - A comprehensive Android e-commerce application demonstrating robust UI and data handling.
+*   **[IMDB](https://github.com/farzinAndroid/IMDB)** - A feature-rich movie discovery application leveraging modern Android architecture.
+*   **[Muse](https://github.com/farzinAndroid/Muse)** - A beautifully designed Android application focused on media and user experience.
+*   **[QQVPN](https://github.com/farzinAndroid/QQVPN)** - A virtual private network client application built for Android.
 *   **[HashScanner](https://github.com/farzinAndroid/HashScanner)** - A robust Android application for scanning and processing data efficiently.
-*   **RecipeAppMVVM / FoodAppMVP** - Explored different architectural patterns to build feature-rich food and recipe applications.
-*   **ChatAppSample** - A modern sample application demonstrating real-time messaging capabilities and clean UI implementation.
-*   **MovieProject** - An Android application tailored for browsing and discovering movies.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farzinAndroid&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzinAndroid&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farzinAndroid&theme=gotham&hide_border=false" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farzinAndroid&theme=gotham&no-frame=false&no-bg=false&margin-w=4" />
-</div>
 
 ---
 
